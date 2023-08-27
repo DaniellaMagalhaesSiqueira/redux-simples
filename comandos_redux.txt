@@ -1,0 +1,4 @@
+npx create-react-app redux-simples #cria sem instalar a versão global do projeto react-simples
+
+npm i redux react-redux
+
